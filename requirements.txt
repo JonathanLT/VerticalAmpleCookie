@@ -1,1 +1,1 @@
-discord==1.7.3
+./discord-2.0.0-py3-none-any.whl
